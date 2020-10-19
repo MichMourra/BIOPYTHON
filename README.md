@@ -1,7 +1,7 @@
 # BIOPYTHON
 
 ## Descripción
-Repositorio de la clase de BIOPYTHON para datos, tareas y practicas
+Repositorio de la clase de BIOPYTHON para datos, tareas, practicas y scripts
 
 ## Motivación
 Tener un repositorio en el cual se puedan manejar todos los archivos para tener mas control de los proyectos y sus versiones
